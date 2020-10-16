@@ -1,0 +1,24 @@
+{
+  "name": "project_yoga",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad777555/Project_yogaa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad777555/Project_yogaa/issues"
+  },
+  "homepage": "https://github.com/Vlad777555/Project_yogaa#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.1.1",
+    "webpack-cli": "^4.0.0"
+  }
+}
